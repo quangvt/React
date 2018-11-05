@@ -1,6 +1,6 @@
 facebook.github.io/react-native
 
-#I. React Native UI Libraries
+# I. React Native UI Libraries
 1. Icon
 https://github.com/oblador/react-native-vector-icons
 https://oblador.github.io/react-native-vector-icons/
@@ -31,7 +31,7 @@ https://atom.io
 => install package => nuclide => install
 => Atom mene => Nuclide
 
-#II. Fullstack frameworks
+# II. Fullstack frameworks
 1. Quick Comparision
 Features/Benefits: Exponent/Pepperoni/Ignite
 Initial setup: Easy to install/A bit complex for the uniitiated/Easy to get started CLI
@@ -45,7 +45,7 @@ c. infinite.red/igniteb (for ignite) => report on Github => this is top
 2. Deco
 https://decosoftware.com => https://www.decoide.org/
 
-#III. Backend Options for RN projects
+# III. Backend Options for RN projects
 1. firebase.google.com
 - Case Studies
 - Docs
@@ -59,7 +59,7 @@ https://decosoftware.com => https://www.decoide.org/
 
 - yeoman.io => scrapfold
 
-#IV. Testing Your App
+# IV. Testing Your App
 1. Jest
 - https://facebook.github.io/jest
 
@@ -69,7 +69,7 @@ https://decosoftware.com => https://www.decoide.org/
 - jasmine: https://jasmine.github.io/
 - mocha: mochajs.org
 
-#V. Deployment
+# V. Deployment
 1. IOS - Prior to Submitting Your App
 - Your Apple and Google Dev accounts are in order
 - Code in flawless (bugs, performance issues, and conversion)
